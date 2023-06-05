@@ -22,7 +22,7 @@ main {
 section {
   width: 300px;
   margin-right: 30px;
-  background-color: #EEEEEE;
+  background-color: #eee;
   padding: 10px 10px 0 10px;
   position: relative;
 }
@@ -64,5 +64,5 @@ h3 {
 
 footer {
   height: 50px;
-  background-color: #AAAAAA;
+  background-color: #aaa;
 }
